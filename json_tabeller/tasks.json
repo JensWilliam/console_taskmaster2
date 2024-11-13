@@ -1,0 +1,5 @@
+[
+    {"id":"1", "task":"make coffee", "points":1},
+    {"id":"2", "task":"clean table", "points":2},
+    {"id":"3", "task":"shopping", "points":2}
+]
